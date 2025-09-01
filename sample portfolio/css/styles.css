@@ -10997,7 +10997,7 @@ html {
   width: clamp(6rem, 10vw,13rem);
 }
 .masthead-avatar3{
-  width: clamp(6rem, 10.9vw,13rem);
+  width: clamp(6rem, 11.2vw,13rem);
 }
 
 @media (min-width: 992px) {
