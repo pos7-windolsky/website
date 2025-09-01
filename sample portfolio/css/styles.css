@@ -10991,13 +10991,13 @@ html {
   width: clamp(6rem, 10vw,13rem);
 }
 .masthead-avatar-1{
-  width: clamp(6rem, 13.6vw,13rem);
+  width: clamp(7rem, 12.8vw,20rem);
 }
 .masthead-avatar-2{
-  width: clamp(6rem, 10vw,13rem);
+  width: clamp(6rem, 10vw,20rem);
 }
 .masthead-avatar-3{
-  width: clamp(6rem, 11.2vw,13rem);
+  width: clamp(6.58em, 11.2vw,20rem);
 }
 
 @media (min-width: 992px) {
