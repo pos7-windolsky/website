@@ -10990,13 +10990,13 @@ html {
 .masthead .masthead-avatar {
   width: clamp(6rem, 10vw,13rem);
 }
-.masthead-avatar1{
+.masthead-avatar-1{
   width: clamp(6rem, 13.6vw,13rem);
 }
-.masthead-avatar2{
+.masthead-avatar-2{
   width: clamp(6rem, 10vw,13rem);
 }
-.masthead-avatar3{
+.masthead-avatar-3{
   width: clamp(6rem, 11.2vw,13rem);
 }
 
